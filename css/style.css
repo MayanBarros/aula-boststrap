@@ -1,0 +1,60 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #9EFE57;
+    height: 100px;
+}
+
+.quemsomos {
+    background-color: #000000;
+    color: white;
+
+}
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.law {
+    margin-top:20px;
+    margin-bottom:30px;
+    border: 5px solid #dbdbdb;
+    }
+
+.parceiros {
+    background-color: #006572;
+}
+
+
+.navbar-brand {
+    margin-left: 30px;
+    font-size: 40px;
+}
+
+#title-parceiros {
+    color: white;
+    margin-bottom: 30px;
+}
+
+.bg-footer {
+    background-color: black;
+    height: 5px;
+}
+
+.desc {
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid 2px black;
+    height: 150px;
+}
+
+.img {
+    border: solid 2px black;
+}
+
+footer p {
+    color: #e2e2e2;
+    
+}
